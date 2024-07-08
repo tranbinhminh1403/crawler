@@ -1,0 +1,26 @@
+specs:
+{
+    cpu - vxl
+    ram - ram
+    ổ cứng 
+    vga - card đồ hoạ
+    màn hình
+    kích thước
+}
+
+
+// new search // delete
+search (my app) -> search on Gearvn   -> take result with only string  -> fetch
+                -> search on Phucanh  -> result                        -> fetch             -> compare page
+                -> search on shopee   -> result                        -> fetch
+
+
+// search in db
+search (mysql)  -> search in table    -> display
+
+
+lenovo Gaming LOQ - 15IAX9 i5 12450HX (83GS005KVN)
+
+
+ "Acer ", "Asus ", "Dell ", "Gigabyte ", "HP ", "Huawei ", "Lenovo ", "LG ", "Macbook ", "MSI ", "VAIO ", "Masstel " 
+
